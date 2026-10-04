@@ -1,0 +1,6 @@
+{
+  "name": "SKX MINING - Telegram Mini App & Reward Engine",
+  "description": "Futuristic Telegram-based reward and mining Mini App with Tap-to-Mine, energy regeneration, referral system, hourly mining cycles, and withdrawal engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
